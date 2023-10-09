@@ -8,4 +8,4 @@ A proposta desse projeto era desenvolver um sistema de criptografia.<br>
 
 O projeto foi desenvolvido inteiramente em python<br>
 
-código permite que o usuário digite uma frase, e a mesma será criptografada, ou descriptografada.<br>
+O código permite que o usuário digite uma frase, e a mesma será criptografada, ou descriptografada.<br>
